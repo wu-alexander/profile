@@ -1,7 +1,7 @@
 body {
-  background-color: #F3E9DD;
+  background-color: #FDF6EC;
   font-family: 'Poppins', sans-serif;
-  color: #DAB88B;
+  color: #A0BCC2;
   font-size: 9px;
   line-height: 11px;
 }
@@ -14,7 +14,7 @@ body {
 .card {
   background-color: white;
   padding: 20px;
-  margin: 20px;
+  margin: 10px;
   box-shadow: 0px 10px 30px rgba(200,200,200,0.6);
   text-align: center;
 }
@@ -24,17 +24,18 @@ body {
   height: 120px;
   width: 100px;
   object-fit: cover;
-}
-
-p {
-  padding: 10px 5px;
+  margin-top: 10px;
 }
 
 h1, h2 {
   display: block;
-  color: #A0BCC2;
+  color: #DAB88B;
   font-size: 12px;
   line-height: 14px;
+}
+
+p {
+  padding: 12px;
 }
 
 .btn-blue {
